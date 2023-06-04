@@ -1,4 +1,4 @@
-## Redux Toolkit paso a paso
+## Redux Toolkit paso a paso
 
 1. Crear estructura de archivos:
 
